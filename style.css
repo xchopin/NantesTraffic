@@ -1,0 +1,12 @@
+#map {
+    height: 100%;
+    border: 1px solid #AAA;
+}
+
+.traffic {
+    padding: 20px 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
