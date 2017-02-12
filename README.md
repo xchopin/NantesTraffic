@@ -11,7 +11,7 @@ This is a simple example of interoperability the goal of this project was to cre
 
 
 ## Technologies used
-- JavaScript (included JSON)
+- JavaScript (JSON included)
 - HTML/CSS
 - PHP
 
